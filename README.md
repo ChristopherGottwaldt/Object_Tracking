@@ -20,4 +20,4 @@ pixels contained within that square.
 target square until the right one is found.
 - A yellow box is drawn over this area, which *should* contain the object!  
 
-Link to [presentation site](https://christophergottwaldt.notion.site/Object-Tracking-Project-8a7a474de6314d91808fc24f46287030)
+Link to [presentation site](https://christophergottwaldt.notion.site/Object-Tracking-Project-8a7a474de6314d91808fc24f46287030).
