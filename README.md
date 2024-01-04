@@ -9,7 +9,7 @@ tracks a person that's walking around!
 And here's [another demonstration](https://youtu.be/xhE-kyd5_5o) of it tracking
 a rolling soccer ball!  
   
-Here's how it works:
+## Here's how it works:
 - I have a video that I want to use.
 - Run the program.
 - On the first frame of the video you can draw a square over the section 
