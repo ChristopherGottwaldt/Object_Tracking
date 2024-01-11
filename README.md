@@ -3,11 +3,19 @@
 This is a project that can track an object in a video. I made this using 
 information from my CS 639: Intro to Computer Vision class's lectures.  
 
-Here's a [demonstration video](https://youtu.be/HfMzB0gXJWs) where the program
-tracks a person that's walking around!  
-
-And here's [another demonstration](https://youtu.be/xhE-kyd5_5o) of it tracking
+## Demo
+Here's a [demonstration video](https://youtu.be/xhE-kyd5_5o) of it tracking
 a rolling soccer ball!  
+![image](https://github.com/ChristopherGottwaldt/Object_Tracking/assets/91114524/8b899eb7-d870-41d9-b2ce-93281578c71e)  
+
+
+Here's another [demonstration video](https://youtu.be/HfMzB0gXJWs) where the program
+tracks a person that's walking around!  
+![image](https://github.com/ChristopherGottwaldt/Object_Tracking/assets/91114524/3a3e66be-18ac-4acd-8a17-4dd9b901d046)
+
+
+
+
   
 ## Here's how it works:
 - I have a video that I want to use.
