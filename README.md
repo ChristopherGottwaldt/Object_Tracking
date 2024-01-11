@@ -28,8 +28,8 @@ pixels contained within that square.
 target square until the right one is found.
 - A yellow box is drawn over this area, which *should* contain the object!  
 
-## ## Future Improvements:
-    I would like to try a different method of comparing the histograms to each other to test for a performance improvement; 
-    Currently the method is using correlation, but another method like vector norms could potentially work better. 
-    If I had access to better computing resources or made a more efficient algorithm, then I could try on a higher-quality video
-    with a higher framerate for smoother tracking box transitions.
+## Future Improvements:
+I would like to try a different method of comparing the histograms to each other to test for a performance improvement; 
+Currently the method is using correlation, but another method like vector norms could potentially work better. 
+If I had access to better computing resources or made a more efficient algorithm, then I could try on a higher-quality video
+with a higher framerate for smoother tracking box transitions.
